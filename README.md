@@ -19,6 +19,7 @@ mv ~/.cache/nvim ~/.cache/nvim.bak
 
 - gomove
 - markdown-preview
+- transparent.nvim
 
 #### Clone the repository
 
