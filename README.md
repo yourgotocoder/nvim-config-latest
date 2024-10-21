@@ -1,4 +1,4 @@
-# AstroNvim Template
+# My mod to the AstroNvim Template
 
 **NOTE:** This is for AstroNvim v4+
 
@@ -15,16 +15,15 @@ mv ~/.local/state/nvim ~/.local/state/nvim.bak
 mv ~/.cache/nvim ~/.cache/nvim.bak
 ```
 
-#### Create a new user repository from this template
+#### List of plugins on top of the default plugins
 
-Press the "Use this template" button above to create a new repository to store your user configuration.
-
-You can also just clone this repository directly if you do not want to track your user configuration in GitHub.
+- gomove
+- markdown-preview
 
 #### Clone the repository
 
 ```shell
-git clone https://github.com/<your_user>/<your_repository> ~/.config/nvim
+git clone https://github.com/yourgotocoder/nvim-config-latest ~/.config/nvim
 ```
 
 #### Start Neovim

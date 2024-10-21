@@ -4,6 +4,6 @@ return {
   cmd = "MarkdownLoad",
   event = "User AstroFile",
   keys = {
-    { "<leader>mp", "<cmd>MarkdownPreview<cr>", desc = "Load the .md file in the browser" }
+    { "<leader>mp", "<cmd>MarkdownPreview<CR>", desc = "Load the .md file in the browser" }
   }
 }
